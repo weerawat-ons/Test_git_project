@@ -3,5 +3,6 @@ function sum(a,b){
 }
 
 function minus(a,b){
+  // minus
   return a-b;
 }

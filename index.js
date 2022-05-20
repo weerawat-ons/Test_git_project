@@ -6,3 +6,7 @@ function minus(a,b){
   // minus
   return a-b;
 }
+
+function multipy(a,b){
+  return a*b;
+}
